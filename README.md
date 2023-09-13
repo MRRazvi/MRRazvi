@@ -6,14 +6,14 @@ WordPress | PHP | Scraping | Cloud Computing Expert
 
 Top-rated certified senior web developer with over 10 years of professional experience specializing in WordPress customization, bug fixing, plugin/theme development, custom PHP / Laravel applications, web scraping, automation, and cloud computing, etc.
 
-* ⚡  Top Rated Plus (Top 3%) UpWork Freelancer
+* ⚡ Top Rated Plus (Top 3%) UpWork Freelancer
 * 💯 100% Job Success Rate
 * 🔟 10+ Years of Experience
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [UpWork](http://upwork.com/freelancers/mrrazvi)
-* ✉️  You can contact me at [mrrazvi@icloud.com](mailto:mrrazvi@icloud.com)
-* 🚀  I'm currently working on [UpWork](http://upwork.com/freelancers/mrrazvi)
-* 🧠  I'm learning Artificial Intelligence
+* 🌍 I'm based in Pakistan
+* 🖥️ See my portfolio at [UpWork](http://upwork.com/freelancers/mrrazvi)
+* ✉️ You can contact me at [mrrazvi@icloud.com](mailto:mrrazvi@icloud.com)
+* 🚀 I'm currently working on [UpWork](http://upwork.com/freelancers/mrrazvi)
+* 🧠 I'm learning Artificial Intelligence
 
 ### Skills
 
